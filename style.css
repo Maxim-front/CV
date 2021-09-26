@@ -73,7 +73,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #f7f7f7ec;
-    padding-top: 3rem;
+    padding: 3rem 0 1rem;
 }
 
 .contact-info ul {
@@ -103,10 +103,10 @@ body {
     padding: .4rem 0;
 }
 
-.hard-skill-title {
-    text-transform: uppercase;
-    color: #f7f7f7;
-    font-size: 1rem;
+.hard-skill-text {
+    color: #e5eee3;
+    font-size: 1.1rem;
+    font-weight: bold;
 }
 
 .progress-bar {
@@ -124,26 +124,6 @@ body {
     left: 0;
     background-color: #2D9CDB;
     border-radius: 12px;
-}
-
-.ps-progress {
-    width: 75%;
-}
-
-.js-progress {
-    width: 60%;
-}
-
-.git-progress {
-    width: 60%;
-}
-
-.j-progress {
-    width: 5%;
-}
-
-.c-progress {
-    width: 5%;
 }
 
 .soft-skill-title {
